@@ -9,3 +9,5 @@ CREATE TABLE incident_reports (
   details TEXT NOT NULL,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+// Just made an SQL query with codes for the convenience 
